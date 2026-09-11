@@ -3,17 +3,16 @@
 <h3 align="center">Desenvolvedor Fullstack Júnior | React • .NET/C# • Node.js • Python</h3>
 
 <p align="center">
-  Curso Sistemas de Informação na UFOP (6º período) e atuo como desenvolvedor fullstack,
-  com foco em React no front-end e C#/.NET ou Node.js no back-end, aplicando Clean
-  Architecture, CQRS e integração contínua no dia a dia. Tenho explorado também IA
+  Sou estudante de Sistemas de Informação na Universidade Federal de Ouro Preto e atuo como desenvolvedor fullstack,
+  com foco em React no front-end e C#/.NET ou Node.js no back-end. Tenho explorado também IA
   aplicada, tendo construído um assistente virtual com LangChain e Gemini API para
-  automatizar agendamentos, e já contribuí com open source através de um Pull Request
-  no projeto BabyBuddy. No momento, estou em busca de uma posição como Desenvolvedor Júnior Fullstack 
-  ou Backend.
+  automatizar agendamentos, e contribuo com projetos open source aqui no GitHub. No momento, estou em busca de uma posição como Desenvolvedor Fullstack e 
+  contribuir na construção de projetos robustos e escaláveis.
+  
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ewerton-gomes-barcia5a4323317">
+  <a href="https://www.linkedin.com/in/ewertong">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:ewerton.gbarcia@gmail.com">
