@@ -40,7 +40,7 @@
 
 **💰 [CentralFinanças](https://github.com/EwertonG/finance-hub)** — Plataforma de gestão financeira pessoal
 `React` `TypeScript` `Node.js` `PostgreSQL`
-Controle de entradas, saídas e reservas por categoria. Desenvolvimento contínuo com 170+ commits, fluxo de Pull Requests e pipeline de CI (lint, type-check, build).
+Controle de entradas, saídas e reservas por categoria. Desenvolvimento contínuo, fluxo de Pull Requests e pipeline de CI (lint, type-check, build).
 
 **🏥 [Ewerton MedAgent](https://github.com/EwertonG/Ewerton-MedAgent)** — Assistente de IA para clínicas
 `Python` `FastAPI` `LangChain` `Gemini API` `React`
@@ -53,15 +53,6 @@ Catálogo de peixes ornamentais, diário de aquários e fórum com autenticaçã
 **🍼 [BabyBuddy — Contribuição Open Source](https://github.com/babybuddy/babybuddy)**
 `Python` `Django` `Django REST Framework`
 Pull Request corrigindo dessincronização de timers no projeto oficial (2.900+ estrelas no GitHub).
-
----
-
-### 📊 Estatísticas
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=EwertonG&show_icons=true&theme=default&hide_border=true&cache_seconds=1800" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EwertonG&layout=compact&hide_border=true&cache_seconds=1800" />
-</p>
 
 ---
 
