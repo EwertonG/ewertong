@@ -58,10 +58,9 @@ Pull Request corrigindo dessincronização de timers no projeto oficial (2.900+ 
 
 ### 📊 Estatísticas
 
-<!-- Cartões dinâmicos do GitHub Readme Stats - atualizam sozinhos, não precisa editar -->
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=EwertonG&show_icons=true&theme=default&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EwertonG&layout=compact&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=EwertonG&show_icons=true&theme=default&hide_border=true&cache_seconds=1800" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EwertonG&layout=compact&hide_border=true&cache_seconds=1800" />
 </p>
 
 ---
