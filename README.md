@@ -25,7 +25,7 @@
 ### 🧩 Linguagens e Tecnologias
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,bootstrap,python,cs,dotnet,nodejs,java,postgres,mysql,mongodb,firebase,git,docker,githubactions,azure,vite,flask&perline=12" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,bootstrap,python,cs,dotnet,nodejs,java,postgres,mysql,mongodb,firebase,git,docker,vite,flask&perline=12" />
 </p>
 
 <p align="center">
