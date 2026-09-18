@@ -30,7 +30,6 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white" />
-  <img src="https://img.shields.io/badge/Gemini_API-8E75B2?style=flat&logo=googlegemini&logoColor=white" />
 </p>
 
 ---
